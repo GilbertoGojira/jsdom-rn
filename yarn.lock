@@ -3102,10 +3102,9 @@ webidl2@^24.2.0:
   resolved "https://registry.yarnpkg.com/webidl2/-/webidl2-24.2.2.tgz#737132152bb1e2c4ae3a5839b663edb51cf0b8eb"
   integrity sha512-4l1lBuUqfNBZDzQfG0dpM2haInTZ+IRnXwbWn9Oc49boPTlXQS8Hpg4GK4kE7M+504ZUKCwzBxtQR/0wPVokUw==
 
-webidl2js@^17.1.0:
+"webidl2js@https://github.com/GilbertoGojira/webidl2js-rn.git":
   version "17.1.0"
-  resolved "https://registry.yarnpkg.com/webidl2js/-/webidl2js-17.1.0.tgz#dc14a9ea8e05382f29fb72090e8d97add0f52e44"
-  integrity sha512-DxO4IMiwfXf4Hai0IwQGMPd5ySRYFu1MqYbrMtND/VDf/uGFUCaaP6rDc2K1lxuvfUdAc0VlNjZhMtxCpUuA1Q==
+  resolved "https://github.com/GilbertoGojira/webidl2js-rn.git#35a1a1641e6e8b6720dc0680d3de99e6cb9dae91"
   dependencies:
     prettier "^2.5.1"
     webidl-conversions "^7.0.0"

@@ -79,7 +79,7 @@
     "rimraf": "^3.0.2",
     "server-destroy": "^1.0.1",
     "watchify": "^4.0.0",
-    "webidl2js": "^17.1.0",
+    "webidl2js": "https://github.com/GilbertoGojira/webidl2js-rn.git",
     "yargs": "^17.5.1"
   },
   "browser": {
