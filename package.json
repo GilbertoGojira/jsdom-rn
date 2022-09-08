@@ -43,7 +43,7 @@
     "webidl-conversions": "^7.0.0",
     "whatwg-encoding": "^2.0.0",
     "whatwg-mimetype": "^3.0.0",
-    "whatwg-url": "^11.0.0",
+    "whatwg-url": "https://github.com/GilbertoGojira/whatwg-url-rn.git",
     "ws": "^8.8.0",
     "xml-name-validator": "^4.0.0"
   },
