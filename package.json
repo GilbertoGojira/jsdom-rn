@@ -27,7 +27,7 @@
     "cssstyle": "^2.3.0",
     "data-urls": "^3.0.2",
     "decimal.js": "^10.3.1",
-    "domexception": "^4.0.0",
+    "domexception": "https://github.com/GilbertoGojira/domexception-rn.git",
     "escodegen": "^2.0.0",
     "form-data": "^4.0.0",
     "html-encoding-sniffer": "^3.0.0",
