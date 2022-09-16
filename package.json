@@ -1,6 +1,6 @@
 {
   "name": "jsdom-rn",
-  "version": "20.0.2",
+  "version": "20.0.3",
   "description": "A JavaScript implementation of many web standards",
   "keywords": [
     "dom",
@@ -44,7 +44,7 @@
     "webidl-conversions": "^7.0.0",
     "whatwg-encoding": "^2.0.0",
     "whatwg-mimetype": "^3.0.0",
-    "whatwg-url": "https://github.com/GilbertoGojira/whatwg-url-rn.git#11.0.2",
+    "whatwg-url": "npm:whatwg-url-rn@^11.0.2",
     "ws": "^8.8.0",
     "xml-name-validator": "^4.0.0"
   },
