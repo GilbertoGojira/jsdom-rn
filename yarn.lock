@@ -728,13 +728,13 @@ dash-ast@^1.0.0:
   resolved "https://registry.yarnpkg.com/dash-ast/-/dash-ast-1.0.0.tgz#12029ba5fb2f8aa6f0a861795b23c1b4b6c27d37"
   integrity sha512-Vy4dx7gquTeMcQR/hDkYLGUnwVil6vk4FOOct+djUnHOUWt+zJPJAaRIXaAFkPXtJjvlY7o3rfRu0/3hpnwoUA==
 
-"data-urls@https://github.com/GilbertoGojira/data-urls-rn.git#3.0.2":
-  version "3.0.2"
-  resolved "https://github.com/GilbertoGojira/data-urls-rn.git#4ab0ad5b6ecc70edf68881f7bfa416f42846fb26"
+"data-urls@https://github.com/GilbertoGojira/data-urls-rn.git#3.0.3":
+  version "3.0.3"
+  resolved "https://github.com/GilbertoGojira/data-urls-rn.git#730ee0e0767dff5bfe381fdcef9effe5c146e03f"
   dependencies:
     abab "^2.0.6"
     whatwg-mimetype "^3.0.0"
-    whatwg-url "https://github.com/GilbertoGojira/whatwg-url-rn.git#11.0.1"
+    whatwg-url "https://github.com/GilbertoGojira/whatwg-url-rn.git#11.0.2"
 
 date-format@^4.0.10:
   version "4.0.11"
@@ -2851,6 +2851,11 @@ syntax-error@^1.1.1:
   dependencies:
     acorn-node "^1.2.0"
 
+text-encoding@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/text-encoding/-/text-encoding-0.7.0.tgz#f895e836e45990624086601798ea98e8f36ee643"
+  integrity sha512-oJQ3f1hrOnbRLOcwKz0Liq2IcrvDeZRHXhd9RgLrsT+DjWY/nty1Hi7v3dtkaEYbPYe0mUoOfzRrMwfXXwgPUA==
+
 text-table@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/text-table/-/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
@@ -3120,9 +3125,9 @@ whatwg-mimetype@^3.0.0:
   resolved "https://registry.yarnpkg.com/whatwg-mimetype/-/whatwg-mimetype-3.0.0.tgz#5fa1a7623867ff1af6ca3dc72ad6b8a4208beba7"
   integrity sha512-nt+N2dzIutVRxARx1nghPKGv1xHikU7HKdfafKkLNLindmPU/ch3U31NOCGGA/dmPcmb1VlofO0vnKAcsm0o/Q==
 
-"whatwg-url@https://github.com/GilbertoGojira/whatwg-url-rn.git#11.0.1":
-  version "11.0.1"
-  resolved "https://github.com/GilbertoGojira/whatwg-url-rn.git#299d1c1fe059ef1598c095d4ca72021eae569f8a"
+"whatwg-url@https://github.com/GilbertoGojira/whatwg-url-rn.git#11.0.2":
+  version "11.0.2"
+  resolved "https://github.com/GilbertoGojira/whatwg-url-rn.git#512247ba98179d5826cea097c25f5637989eb742"
   dependencies:
     tr46 "^3.0.0"
     webidl-conversions "^7.0.0"
