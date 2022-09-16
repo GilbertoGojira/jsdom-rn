@@ -1,5 +1,5 @@
 {
-  "name": "jsdom",
+  "name": "jsdom-rn",
   "version": "20.0.1",
   "description": "A JavaScript implementation of many web standards",
   "keywords": [
@@ -25,9 +25,9 @@
     "acorn-globals": "^6.0.0",
     "cssom": "^0.5.0",
     "cssstyle": "^2.3.0",
-    "data-urls": "https://github.com/GilbertoGojira/data-urls-rn.git",
+    "data-urls": "https://github.com/GilbertoGojira/data-urls-rn.git#3.0.2",
     "decimal.js": "^10.3.1",
-    "domexception": "https://github.com/GilbertoGojira/domexception-rn.git",
+    "domexception": "https://github.com/GilbertoGojira/domexception-rn.git#4.0.0",
     "escodegen": "^2.0.0",
     "form-data": "^4.0.0",
     "html-encoding-sniffer": "^3.0.0",
@@ -43,7 +43,7 @@
     "webidl-conversions": "^7.0.0",
     "whatwg-encoding": "^2.0.0",
     "whatwg-mimetype": "^3.0.0",
-    "whatwg-url": "https://github.com/GilbertoGojira/whatwg-url-rn.git",
+    "whatwg-url": "https://github.com/GilbertoGojira/whatwg-url-rn.git#11.0.1",
     "ws": "^8.8.0",
     "xml-name-validator": "^4.0.0"
   },
@@ -79,7 +79,7 @@
     "rimraf": "^3.0.2",
     "server-destroy": "^1.0.1",
     "watchify": "^4.0.0",
-    "webidl2js": "https://github.com/GilbertoGojira/webidl2js-rn.git",
+    "webidl2js": "https://github.com/GilbertoGojira/webidl2js-rn.git#17.1.0",
     "yargs": "^17.5.1"
   },
   "browser": {
