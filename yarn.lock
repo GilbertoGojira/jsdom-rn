@@ -3132,6 +3132,14 @@ whatwg-mimetype@^3.0.0:
     tr46 "^3.0.0"
     webidl-conversions "^7.0.0"
 
+"whatwg-url@npm:whatwg-url-rn@^11.0.2":
+  version "11.0.2"
+  resolved "https://registry.yarnpkg.com/whatwg-url-rn/-/whatwg-url-rn-11.0.2.tgz#f7af0bdf2dce33c9de162d5ebfd36cfa8a620220"
+  integrity sha512-4S+5Tk2g8d+RFRfaJKeBSXINC5WJZ+bjiVGhCQWZGaFvh7k9Yeumxw5rEtXjIaf+2W2cGARdZO5vO9au/Rm/sA==
+  dependencies:
+    tr46 "^3.0.0"
+    webidl-conversions "^7.0.0"
+
 which-boxed-primitive@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/which-boxed-primitive/-/which-boxed-primitive-1.0.2.tgz#13757bc89b209b049fe5d86430e21cf40a89a8e6"
